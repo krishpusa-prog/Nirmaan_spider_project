@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing:border-box
+}
+.searchbar{
+    display: flex;
+    align-items: center;
+}
+input{
+    width: 100%;
+     font-size: 1rem;
+     border: none;
+     background-image: url("/Users/kaustubh/Desktop/nirmaan_hackathon/resources/image copy 2.png");
+     color: black;
+     font-weight: 700;
+}
+.comics{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
